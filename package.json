@@ -1,0 +1,24 @@
+{
+  "name": "test-eslint-plugin-tailwindcss",
+  "version": "1.0.0",
+  "description": "Testing eslint-plugin-tailwindcss",
+  "scripts": {
+    "eslint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ledermann/test-eslint-plugin-tailwindcss.git"
+  },
+  "author": "Georg Ledermann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ledermann/test-eslint-plugin-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/ledermann/test-eslint-plugin-tailwindcss#readme",
+  "devDependencies": {
+    "@angular-eslint/template-parser": "^13.0.1",
+    "eslint": "^8.7.0",
+    "eslint-plugin-tailwindcss": "^3.2.2-beta.0",
+    "tailwindcss": "^3.0.15"
+  }
+}
